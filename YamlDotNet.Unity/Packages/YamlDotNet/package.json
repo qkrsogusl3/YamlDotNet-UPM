@@ -1,0 +1,9 @@
+{
+    "name": "com.qkrsogusl3.yamldotnet-upm",
+    "displayName": "YamlDotNet",
+    "version": "0.0.1",
+    "unity": "2021.2",
+    "description": "YamlDotNet for upm",
+    "documentationUrl": "",
+    "license": "MIT"
+}

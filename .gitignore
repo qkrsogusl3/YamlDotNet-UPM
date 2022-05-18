@@ -15,8 +15,8 @@ release/*
 /_ReSharper.*
 *.pidb
 *.userprefs
-packages
-packages/*
+!packages
+!packages/*
 !packages/repositories.config
 .vscode
 
@@ -34,5 +34,5 @@ BenchmarkDotNet.Artifacts*
 
 /YamlDotNet.AotTest/exitcode.txt
 /tools/build/Properties/launchSettings.json
-/YamlDotNet.Unity
-*.meta
+!/YamlDotNet.Unity
+!*.meta
